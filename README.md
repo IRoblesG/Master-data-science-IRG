@@ -2,11 +2,6 @@
 
 Escribo otras cosas
 
-//asdf
-/asdf
-%asdf
-@asdf
-~asdf
-$asdf
-
-son 6 asdfs
+\n
+\n
+Linea añadida desde la web
